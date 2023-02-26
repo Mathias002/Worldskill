@@ -1,0 +1,50 @@
+.row{
+    padding-top: 2rem;
+}
+
+.col-2{
+    display:flex ;
+}
+
+.pp{
+    padding-top: 2rem;
+}
+
+.ppLewis{
+    clip-path:ellipse(50% 50%);
+    width: 3rem;
+}
+
+.text_profil{
+    float: left;
+}
+
+.text_profil p{
+    color: gray;
+    text-align: left;
+    font-size: 10px;
+    vertical-align: middle;
+}
+
+.text_profil h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    font-size: 15px;
+}
+
+.img_designer{
+    float: right;
+}
+
+.presentation h3 {
+    color: gray;
+}
+
+.presentation h1{
+    font-weight: 600;
+}
+
+.presentation p{
+    color: gray;
+}
+
